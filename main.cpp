@@ -11,6 +11,7 @@ int main()
 	input(&num1, &num2);
 	cout << "Числа: " << num1 <<  "\t" << num2;
 	cout << "Сумма этих двух чисел: " << num1 + num2 << endl;
+	cout << "Разность этих двух чисел: " << num1 - num2 << endl;
 	
 	return 0;
 }
